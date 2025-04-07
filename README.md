@@ -3,15 +3,6 @@
 🎓 B.Tech CSE student @ Kalvium  
 💻 Exploring the world of development & tech  
 
-## 👨‍💻 Tech Stack
-- Languages: C++, Python  
-- Web Dev: Learning MERN Stack (thoda thoda aata hai 😎)  
-
-## 🚀 About Me
-- Video editor | Problem Solver 
-- Currently exploring DSA & Backend Development  
-- Believe in learning by building & breaking stuff  
-
 ## 📫 Let's Connect
 - Mail: advancedtechnology62@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/alok-agrahari-6b6811312/ 
